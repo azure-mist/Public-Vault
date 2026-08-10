@@ -1,0 +1,38 @@
+# 默认忽略全部内容
+*
+
+# 允许继续遍历所有目录
+!*/
+
+# 笔记和白板
+!*.md
+!*.canvas
+!*.excalidraw
+
+# 图片
+!*.png
+!*.jpg
+!*.jpeg
+!*.gif
+!*.webp
+!*.svg
+
+# 文档
+!*.pdf
+!*.doc
+!*.docx
+!*.xls
+!*.xlsx
+!*.ppt
+!*.pptx
+!*.txt
+
+# 音视频
+!*.mp3
+!*.wav
+!*.m4a
+!*.mp4
+!*.webm
+
+# Git忽略规则本身
+!.gitignore
