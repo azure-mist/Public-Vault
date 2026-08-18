@@ -1,4 +1,4 @@
-# [<mark style="background:#b1ffff">Compulsory subjects</mark>](https://www.polyu.edu.hk/ama/study/pg/master-mathematics-for-articificial-intellegence-technology/curriculum/#collapse-1)
+# [<mark style="background:#ff4d4f">Compulsory Subjects</mark>](https://www.polyu.edu.hk/ama/study/pg/master-mathematics-for-articificial-intellegence-technology/curriculum/#collapse-1)
 ---
 ## #AMA528 Probability and Stochastic Models
 ### 1. [polyu｜ama｜orra](https://www.xiaohongshu.com/explore/683a7045000000002100e373?xsec_token=ABXgZKcklDRS63JDinMTkvce_ycPt0YFB5ild5okqZsA8=&xsec_source=pc_search&source=web_profile_page) From [高中数学Maco老师](https://www.xiaohongshu.com/user/profile/61251ad5000000000100371e?channel_type=web_search_result_notes&parent_page_channel_type=web_user_board&xsec_token=ABwUegNeM0ln3-97oQ527rmv6DzTiW2ASQ86rocwytlyg=&xsec_source=pc_note)
@@ -128,3 +128,11 @@ Prof. Wanyu LIN 教授是一位很有活力的年轻女性，比较喜欢上课�
 📚课程评价：此课程主要围绕人机交互各方面的知识来展开叙述（例如人体工学，图形学，UI设计，AR/VR等），主打一个雨露均沾。好吧我承认这课有点水，适合英文阅读和写作较好的人去读。考试全是开放题（闭卷），跟PPT有点相关但关系不是特别大，要求死记硬背的知识少于15%。听同学描述说像考雅思（叠个甲，我没考过雅思，所以不确定真实性）此课程有两个Individual Assignment，以及一个Group Project，难度和Workload都不大~ 正如我之前提到的，这门课有点小水，想不及格很难，但同理，想拿高分也很难（英语我恨你~） 
 👩‍🏫老师评价：Prof. LI Ping  老师上课中规中矩，人也挺好，不懂的地方我也经常上去问他，他都会耐心解答。（主要是HCI的概念对我来说太广泛模糊~） 
 ✨ 推荐指数：⭐⭐⭐+0.5⭐
+
+---
+# Related Links
+[MAIT Curriculum](https://www.polyu.edu.hk/ama/study/pg/master-mathematics-for-articificial-intellegence-technology/curriculum/)
+[Subject Search By Programme](https://www38.polyu.edu.hk/eStudent/secure/information/subject-search.jsf)
+[Subjects](https://www.polyu.edu.hk/ama/study/subject-library/) offered by the [AMA Department](https://www.polyu.edu.hk/ama/)
+[Subjects](https://www.polyu.edu.hk/comp/study/subject-offerings/) offered by the [COMP Department](https://www.polyu.edu.hk/comp/)
+[Subjects](https://www.polyu.edu.hk/dsai/study/subjects-on-offer/) offered by the [DSAI Department](https://www.polyu.edu.hk/dsai/)
