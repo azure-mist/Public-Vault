@@ -27,7 +27,7 @@
 ## #DSAI5105 Hands-on AI for Science and Technology
 
 
-# [<mark style="background:#b1ffff">Elective Subjects</mark>](https://www.polyu.edu.hk/ama/study/pg/master-mathematics-for-articificial-intellegence-technology/curriculum/#collapse-2)
+# [<mark style="background:#2457A6">Elective Subjects</mark>](https://www.polyu.edu.hk/ama/study/pg/master-mathematics-for-articificial-intellegence-technology/curriculum/#collapse-2)
 ---
 ## #AMA524 Scientific Computing
 
